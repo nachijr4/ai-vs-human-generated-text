@@ -3,7 +3,7 @@
 Develop a machine learning model capable of identifying whether a piece of text was written by a student or produced by an LLM.
 
 ### Exploring:
-GPT2.ipynb (We explored the GPT2 model an decided not to use in zero shot classification)
+- GPT2.ipynb (We explored the GPT2 model an decided not to use in zero shot classification)
 
 ### Zero-shot classification:
 - bloom.ipynb - Bloom
